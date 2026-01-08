@@ -5,9 +5,6 @@
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://www.linkedin.com/in/khawarislam/)
 [![demo](https://img.shields.io/badge/-Demo-red)](https://www.linkedin.com/in/khawarislam/)
 
-<p align="center">
-    <img src="images/sota.png" alt="GenMix">
-</p>
 
 <p align="center">
     <img src="images/sota.png" alt="GenMix Treasure">
