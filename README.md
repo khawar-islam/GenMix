@@ -23,12 +23,19 @@ conda env create --name GenMix --file=environment.yml
 conda remove -n GenMix --all # In case environment installation faileds
 ```
 
-## 📝 List of Prompts 
+## 📝 Prompts for Image Classification
 Below is the list of prompts, if your accuracy is low then you can use all prompts to increase the performance. Remember that each prompt takes a time to generate images, so the best way is to start from two prompts then increase the number of prompts.
 
 ```
 prompts = ["Autumn", "snowy", "watercolor art","sunset", "rainbow", "aurora",
                "mosaic", "ukiyo-e", "a sketch with crayon"]
+```
+
+## 📝 Prompts for Domain Adaptation
+Below is the list of prompts, if your accuracy is low then you can use all prompts to increase the performance. Remember that each prompt takes a time to generate images, so the best way is to start from two prompts then increase the number of prompts.
+
+```
+prompts = ["graffiti", "retro comic", "chalk drawing","digital art", "cartoon style"]
 ```
 
 ## 📁 Dataset Structure
