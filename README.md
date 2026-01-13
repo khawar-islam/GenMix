@@ -70,5 +70,10 @@ If you find our work useful in your research please consider citing our paper:
   pages={27621--27630},
   year={2024}
 }
+@inproceedings{islam2025context,
+  title={Context-Guided Responsible Data Augmentation with Diffusion Models},
+  author={Islam, Khawar and AKHTAR, NAVEED},
+  booktitle={ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models}
+}
 
 ```
